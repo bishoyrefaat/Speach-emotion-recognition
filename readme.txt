@@ -1,0 +1,1 @@
+A speach emotion recognition using 2d and 1d cnn
